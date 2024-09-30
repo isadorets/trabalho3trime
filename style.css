@@ -1,0 +1,28 @@
+body{background-color: darkcyan;
+}
+.p1 {text-align: center;
+border-style: ridge;
+border-color: darkslateblue;
+border-width: 11px;
+}
+.p2 {text-align: center;
+    border-style: double;
+    border-color: rgb(83, 162, 236);
+    border-width: 9px;
+    font-size: 110%;
+}
+.p3  {text-align: center;
+    border-style:dashed;
+    border-color: rgb(12, 4, 56);
+    border-width: 7px;
+    font-size: 80%;
+}
+.p4 {text-align: center;
+    border-style:dotted;
+    border-color: rgb(128, 19, 179);
+    border-width: 6px;
+    font-size: 90%;
+}
+img {
+    margin-left: 40%;
+}
